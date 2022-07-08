@@ -1,0 +1,4 @@
+Americano - Yumuşak İçimli Espresso
+expresso - jet hızında 30-40 saniyede hazırlanabilecek bir kahve türüdür.
+FilitreKahve - Kahve makinesi filtre kahve yapımında kullanılan klasik bir yöntemdir.
+TurkKahvesi - en eski kahve hazırlama ve pişirme metotlarındandır

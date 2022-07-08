@@ -1,0 +1,4 @@
+cd - Displays the name of the current directory or changes the current directory. 
+If used with only a drive letter (for example, cd C:), cd displays the names of 
+the current directory in the specified drive. If used without parameters, cd displays 
+the current drive and directory.

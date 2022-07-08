@@ -1,0 +1,4 @@
+at - Run a command at a specific time
+attrib - Used to change file attributes
+cd - Used to change folder (directory) or go to a specific one
+chkdsk - Used to check and repair issues in the disk
